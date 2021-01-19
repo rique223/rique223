@@ -21,6 +21,6 @@ I'm specialized in front-end web development but also have knowledge in other pa
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rique223&layout=compact&langs_count=8&theme=highcontrast " />
 </a>
-  
+&nbsp;  
 ![](https://komarev.com/ghpvc/?username=rique223&color=FFD700)
 [![](https://img.shields.io/badge/Pinterest-Follow%20Me-%23c8232c%20)](https://br.pinterest.com/henrique2538)
