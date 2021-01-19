@@ -1,6 +1,6 @@
 ### [PT-BR]
 ## 💮 Olá 💮
-Eu sou o Henrique e esse é o meu github onde você pode encontrar meus projetos de software pessoais e vários aplicativos e sites que desenvolvi durante minha carreira profissional. Caso você seja um recrutador e tenha o intuito de me entrevistar para uma vaga por favor acesse também o meu [Curriculum Vitae online](https://rique223.github.io). 
+Eu sou o Henrique e esse é o meu github onde você pode encontrar meus projetos de software pessoais e vários aplicativos e sites que desenvolvi durante minha carreira profissional. Caso você seja um recrutador e tenha o intuito de me entrevistar para uma vaga por favor acesse também o meu [Curriculum Vitae online](https://rique223.github.io).  
 Minha especialização é em desenvolvimento front-end mas tenho noções de várias partes da Stack Web incluindo back-end e a Persistência de dado, atualmente estou desenvolvendo com a triade dos frameworks Web(Vue, React e Angular) e cursando uma graduação em Sistemas de Informação na Universidade Federal de Goiás.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +12,7 @@ Minha especialização é em desenvolvimento front-end mas tenho noções de vá
 
 ### [EN]
 ## 💮 Hello 💮
-I am Henrique and this is my github where you can find my personal software projects and many apps and websites i've developed during my professional career. If you're a recruiter and has the intention of interviewing me for a job please access my [online Curriculum Vitate](https://rique223.github.io). 
+I am Henrique and this is my github where you can find my personal software projects and many apps and websites i've developed during my professional career. If you're a recruiter and has the intention of interviewing me for a job please access my [online Curriculum Vitate](https://rique223.github.io).  
 I'm specialized in front-end web development but also have knowledge in other parts of the Web Stack including Back-end and data persistence, currently i'm developing projects with the web's framework trinity(Vue, React and Angular) and undergoing a graduation in the Universidade Federal de Goiás(Federal University of Goiás).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
