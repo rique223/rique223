@@ -5,7 +5,7 @@ Eu sou o Henrique e esse é o meu github onde você pode encontrar meus projetos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rique223&color=FFD700)
