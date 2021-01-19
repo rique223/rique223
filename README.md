@@ -13,7 +13,7 @@ Minha especialização é em desenvolvimento front-end mas tenho noções de vá
 ### [EN]
 ## 💮 Hello 💮
 I am Henrique and this is my github where you can find my personal software projects and many apps and websites i've developed during my professional career. If you're a recruiter and has the intention of interviewing me for a job please access my [online Curriculum Vitae](https://rique223.github.io).  
-I'm specialized in front-end web development but also have knowledge in other parts of the Web Stack including Back-end and data persistence, currently i'm developing projects with the web's framework trinity(Vue, React and Angular) and undergoing a graduation in the Universidade Federal de Goiás(Federal University of Goiás).
+I'm specialized in front-end web development but also have knowledge in other parts of the Web Stack including Back-end and data persistence, currently i'm developing projects with the web's framework trinity(Vue, React and Angular) and undergoing an Information Systems graduation in the Universidade Federal de Goiás(Federal University of Goiás).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast " />
