@@ -23,4 +23,4 @@ I'm specialized in front-end web development but also have knowledge in other pa
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rique223&color=FFD700)
-[![](https://img.shields.io/badge/Pinterest-Me%20siga-%23c8232c%20)](https://br.pinterest.com/henrique2538)
+[![](https://img.shields.io/badge/Pinterest-Follow%20Me-%23c8232c%20)](https://br.pinterest.com/henrique2538)
