@@ -24,5 +24,5 @@ I'm specialized in front-end web development but also have knowledge in other pa
 
 &nbsp;  
 
-![](https://komarev.com/ghpvc/?username=rique223&color=FFD700?style=social&logo=appveyor)
+![](https://komarev.com/ghpvc/?username=rique223&color=FFD700&style=social&logo=appveyor)
 [![](https://img.shields.io/badge/Pinterest-Follow%20Me-%23c8232c%20)](https://br.pinterest.com/henrique2538)
