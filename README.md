@@ -17,13 +17,13 @@ class Skills extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="henrique.jobs1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=henrique.jobs1@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" /></a>
   
-  <a href="#" alt="Pinterest">
+  <a href="https://br.pinterest.com/henrique2538" alt="Pinterest">
   <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=Pinterest&logoColor=white&link=https://br.pinterest.com/henrique2538" /></a>
 </p>  
 
