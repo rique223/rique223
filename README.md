@@ -12,7 +12,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['C', 'C#', 'Java', '<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />', 'Typescript'];
+  linguagens  = ['C', 'C#', 'Java', 'Javascript', 'Typescript'];
   bibliotecas  = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
 }
