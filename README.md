@@ -15,7 +15,7 @@ class Skills extends Desenvolvedor {
   linguagens  = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
   bibliotecas  = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
-  outrasTecnologias = ['Wordpress', 'Photoshop', 'Figma, 'Illustrator', 'Microsoft Office']
+  outrasTecnologias = ['Wordpress', 'Photoshop', 'Figma', 'Illustrator', 'Microsoft Office']
 }
 ```
 
@@ -50,7 +50,7 @@ class Skills extends Developer {
   languages  = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
   libraries  = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
-  otherTech = ['Wordpress', 'Photoshop', 'Figma, 'Illustrator', 'Microsoft Office']
+  otherTech = ['Wordpress', 'Photoshop', 'Figma', 'Illustrator', 'Microsoft Office']
 }
 ```
 
