@@ -20,7 +20,7 @@ class Skills extends Desenvolvedor {
   <a href="henrique.jobs1@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=henrique.jobs1@gmail.com" /></a>
 
-  <a href="linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" alt="Linkedin">
+  <a href="https://linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" /></a>
   
   <a href="https://br.pinterest.com/henrique2538" alt="Pinterest">
