@@ -27,7 +27,7 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat-square&logo=Pinterest&logoColor=white&link=https://br.pinterest.com/henrique2538" /></a>
   
   <a href="rique223.github.io" alt="Curriculum Vitae">
-  <img src="https://img.shields.io/badge/-CV-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
+  <img src="https://img.shields.io/badge/-Curriculum-Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
 
 ### [EN]
