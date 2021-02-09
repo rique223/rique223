@@ -7,10 +7,12 @@ class SobreMim extends Desenvolvedor {
   area    = 'Front-end/Full-stack';
   trabalho  = 'Em busca de um';
   local = 'Goiânia, Goiás, BR';
+  curso = 'Sistemas de Informação';
+  universidade = 'Universidade Federal de Goiás';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['C', 'C#', 'Java', 'Javascript', 'Typescript'];
+  linguagens  = ['C', 'C#', 'Java', '![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)', 'Typescript'];
   bibliotecas  = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
 }
