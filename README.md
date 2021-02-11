@@ -1,4 +1,6 @@
 ### [PT-BR]
+Olá, aqui é meu github onde você vai encontrar meus projetos pessoais e os de minhas empreitadas profissionais. Caso você seja um recrutador e queira me entrevistar para uma vaga de emprego por favor acesse meu Curriculum Vitae em meio aos badges que estão ali abaixo e sinta-se a vontade para verificar meus principais repositórios também logo abaixo.
+
 ```js
 import Desenvolvedor from 'Henrique';
 
@@ -34,6 +36,7 @@ class Skills extends Desenvolvedor {
 </p>  
 
 ### [EN]
+Hello, this is my github where you are going to find my personal and professional projects. If you are a recruiter/headhunter and want to interview me for a job opportunity please access my Curriculum Vitae in the badges bellow and feel free to verify my main repositories also down below.
 ```js
 import Developer from 'Henrique';
 
