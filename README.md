@@ -34,6 +34,7 @@ class Skills extends Desenvolvedor {
   <a href="https://rique223.github.io" alt="Curriculum Vitae">
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
+
 ![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=pt-BR)
 
 ### [EN]
