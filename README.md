@@ -34,7 +34,7 @@ class Skills extends Desenvolvedor {
   <a href="https://rique223.github.io" alt="Curriculum Vitae">
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
-![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=br)
+![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=pt-br)
 
 ### [EN]
 Hello, this is my github where you are going to find my personal and professional projects. If you are a recruiter/headhunter and want to interview me for a job opportunity please access my Curriculum Vitae in the badges bellow and feel free to verify my main repositories also down below.
@@ -72,4 +72,4 @@ class Skills extends Developer {
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
 
-![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=us)
+![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=en)
