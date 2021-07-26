@@ -5,17 +5,17 @@ Olá, aqui é meu github onde você vai encontrar meus projetos pessoais e os de
 import Desenvolvedor from 'Henrique';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Henrique Guimarães Ribeiro';
-  area    = 'Front-end/Full-stack';
-  trabalho  = 'Em busca de um';
+  nome = 'Henrique Guimarães Ribeiro';
+  area = 'Front-end/Full-stack';
+  trabalho = 'Em busca de um';
   local = 'Goiânia, Goiás, BR';
   curso = 'Sistemas de Informação';
   universidade = 'Universidade Federal de Goiás';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
-  bibliotecas  = ['Bootstrap', 'Chakra UI', 'React'];
+  linguagens = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
+  bibliotecas = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
   outrasTecnologias = ['Wordpress', 'Photoshop', 'Figma', 'Illustrator', 'Microsoft Office']
 }
