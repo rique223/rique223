@@ -43,17 +43,17 @@ Hello, this is my github where you are going to find my personal and professiona
 import Developer from 'Henrique';
 
 class AboutMe extends Developer {
-  name     = 'Henrique Guimarães Ribeiro';
-  area    = 'Front-end/Full-stack';
-  job  = 'In the search for one';
+  name = 'Henrique Guimarães Ribeiro';
+  area = 'Front-end/Full-stack';
+  job = 'In the search for one';
   address = 'Goiânia, Goiás, BR';
   gradProgram = 'Information Systems';
   university = 'Universidade Federal de Goiás(Federal University of Goiás)';
 }
 
 class Skills extends Developer {
-  languages  = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
-  libraries  = ['Bootstrap', 'Chakra UI', 'React'];
+  languages = ['C', 'C#', 'Java', 'Javascript', 'Typescript', 'HTML', 'CSS', 'PHP'];
+  libraries = ['Bootstrap', 'Chakra UI', 'React'];
   frameworks = ['Angular', 'Vue', 'Quasar'];
   otherTech = ['Wordpress', 'Photoshop', 'Figma', 'Illustrator', 'Microsoft Office']
 }
