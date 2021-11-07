@@ -7,7 +7,7 @@ import Desenvolvedor from 'Henrique';
 class SobreMim extends Desenvolvedor {
   nome = 'Henrique Guimarães Ribeiro';
   area = 'Front-end/Full-stack';
-  trabalho = 'Em busca de um';
+  trabalho = 'Front-end engineer Rocket.Chat';
   local = 'Goiânia, Goiás, BR';
   curso = 'Sistemas de Informação';
   universidade = 'Universidade Federal de Goiás';
@@ -45,7 +45,7 @@ import Developer from 'Henrique';
 class AboutMe extends Developer {
   name = 'Henrique Guimarães Ribeiro';
   area = 'Front-end/Full-stack';
-  job = 'In the search for one';
+  job = 'Front-end engineer Rocket.Chat';
   address = 'Goiânia, Goiás, BR';
   gradProgram = 'Information Systems';
   university = 'Universidade Federal de Goiás(Federal University of Goiás)';
