@@ -34,9 +34,6 @@ class Skills extends Developer {
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
 
-![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=en)
-
-
 ### [PT-BR]
 Olá, aqui é meu github onde você vai encontrar meus projetos pessoais e os de minhas empreitadas profissionais. Caso você seja um recrutador e queira me entrevistar para uma vaga de emprego por favor acesse meu Curriculum Vitae em meio aos badges que estão ali abaixo e sinta-se a vontade para verificar meus principais repositórios também logo abaixo.
 
@@ -73,5 +70,3 @@ class Skills extends Desenvolvedor {
   <a href="https://rique223.github.io" alt="Curriculum Vitae">
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
-
-![Henrique's github stats](https://github-readme-stats.vercel.app/api?username=rique223&show_icons=true&theme=highcontrast&locale=pt-BR)
