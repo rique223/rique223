@@ -70,3 +70,5 @@ class Skills extends Desenvolvedor {
   <a href="https://rique223.github.io" alt="Curriculum Vitae">
   <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
 </p>  
+
+![](https://hit.yhype.me/github/profile?user_id=43561537)
