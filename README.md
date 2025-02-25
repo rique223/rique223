@@ -26,6 +26,5 @@ class Skills extends Developer {
   <a href="https://linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/henrique-guimarães-ribeiro-a296a717a/" /></a>
   
-  <a href="https://rique223.github.io" alt="My portfolio">
-  <img src="https://img.shields.io/badge/-Curriculum_Vitae-FFD700?style=flat-square&logoColor=white&link=rique223.github.io" /></a>
+  <a href="https://rique223.github.io" alt="My portfolio">My portfolio</a>
 </p>  
